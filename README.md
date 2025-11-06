@@ -20,11 +20,11 @@ This project is ideal for beginners learning Django models, views, templates, an
 
 ### 🔹 Employee List Page  
 *(Add your screenshot here)*  
-`/screenshots/employee_list.png`
+`dj-1.png`
 
 ### 🔹 Employee Detail Page  
 *(Add your screenshot here)*  
-`/screenshots/employee_detail.png`
+`dj-2.png`
 
 ---
 
