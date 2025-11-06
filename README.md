@@ -18,13 +18,9 @@ This project is ideal for beginners learning Django models, views, templates, an
 
 ## 🖼 Screenshots
 
-### 🔹 Employee List Page  
-*(Add your screenshot here)*  
-`dj-1.png`
+![Employee List](dj-1.png)
+![Employee Detail](dj-2.png)
 
-### 🔹 Employee Detail Page  
-*(Add your screenshot here)*  
-`dj-2.png`
 
 ---
 
