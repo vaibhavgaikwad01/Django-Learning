@@ -24,9 +24,3 @@ This project is ideal for beginners learning Django models, views, templates, an
 
 ---
 
-## 🚀 How to Run the Project Locally
-
-### 1️⃣ Clone the repository
-```sh
-git clone <your-repo-url>
-cd django-employee-directory
